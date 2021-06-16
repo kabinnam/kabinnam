@@ -1,19 +1,14 @@
-### Hi there 👋
+### Hi, I'm Kabin 👋
 
-<!--
-**kabinnam/kabinnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... random things
+- 🌱 I’m currently learning ... everything
+- 📫 Email me at: kabinnam@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Kabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabinnam&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabinnam&&bg_color=0,#EA8D8D,#A890FE)
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kabinnam&count_private=true&show_icons=true" alt="Kabin's GitHub stats">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabinnam" alt="Top Langs">
+  </div>
+</div>
